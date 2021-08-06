@@ -13,11 +13,11 @@ Data set contains structure with administrative-territorial units::
     #       - CAPITAL_CITY
     #       - STATE
     #            - DISTRICT
-    #            - COMMUNITY
-    #                - CITY
-    #                - URBAN
-    #                - SETTLEMENT
-    #                - VILLAGE
+    #               - COMMUNITY
+    #                   - CITY
+    #                   - URBAN
+    #                   - SETTLEMENT
+    #                   - VILLAGE
     #
     # !!! parent_id fieled helps to make a tree, stucture discribed above
 
